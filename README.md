@@ -7,12 +7,12 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" max-width="500px" alt="Coding Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation">
 </div>
 
 <br>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/varunreddy-mandadi-996b14259">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -25,7 +25,7 @@
   <a href="tel:6301842932">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-</div>
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -33,15 +33,13 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> About Me
 
-<!-- Desktop and Tablet Layout -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%" valign="top">
-        
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      
 ### 🎯 Who Am I?
 **Final-Year B.Tech IT Student** @ MVSR Engineering College, Hyderabad  
-📊 **CGPA:** 8.0 | 🏆 **Hackathon Winner** | 💼 **Full-Stack Developer Intern** @ Robic Rufarm  
+📊 **CGPA:** 8.0 | 🏆 **Hackathon Winner** | 💼 **Full-Stack Developer Intern ** @ Robic Rufarm  
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> What I Do
 - 🚀 Building **AI-powered web applications** with Flask & MongoDB
@@ -60,41 +58,11 @@
 </div>
 
 </td>
-      <td width="40%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" max-width="350px" alt="Coding Animation">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Mobile Layout Alternative (Hidden on Desktop) -->
-<div style="display: none;">
-
-### 🎯 Who Am I?
-**Final-Year B.Tech IT Student** @ MVSR Engineering College, Hyderabad  
-📊 **CGPA:** 8.0 | 🏆 **Hackathon Winner** | 💼 **Full-Stack Developer Intern** @ Robic Rufarm  
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80%" alt="Coding Animation">
-</div>
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> What I Do
-- 🚀 Building **AI-powered web applications** with Flask & MongoDB
-- 🧠 Mastering **Data Structures & Algorithms** via Striver A-Z Sheet
-- 🤖 Developing **Computer Vision & NLP solutions** for real-world problems
-- 🌐 Creating **full-stack applications** with modern tech stacks
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> Current Focus
-- **DSA Practice:** Daily problem-solving on LeetCode & Striver Sheet
-- **AI/ML Projects:** Computer Vision, NLP chatbots, and ML model deployment  
-- **Full-Stack Development:** Flask, MongoDB, REST APIs, and responsive UIs
-- **Career Goal:** Landing a role at **Google, Amazon, Microsoft, or OpenAI**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🎯_Fun_Fact-Won_3rd_place_in_AIthon_2024_competing_against_150+_teams!-FF6B6B?style=for-the-badge&logoColor=white" />
-</div>
-
-</div>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -147,22 +115,19 @@
 
 </div>
 
-<!-- Desktop Layout for Project Details -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        
-**🔥 Key Features:**
+<table>
+  <tr>
+    <td width="50%">
+      
 - 🤖 **NLP Chatbot** using Groq API for personalized travel advice
 - 🗺️ **Interactive Maps** with Leaflet.js + real-time location data
 - 🌦️ **Weather Integration** (OpenWeather API) + **Monument Recognition** (Roboflow)
 - 📍 **Multi-API Integration:** Geoapify, Unsplash, Google Maps 360° views
 
 </td>
-      <td width="50%" valign="top">
-        
-**💻 Tech Stack:**
+    <td width="50%">
+      
+**Tech Stack:**
 ```
 Flask     │ Backend Framework
 MongoDB   │ Database
@@ -173,9 +138,8 @@ Railway   │ Cloud Deployment
 ```
 
 </td>
-    </tr>
-  </table>
-</div>
+  </tr>
+</table>
 
 ---
 
@@ -190,21 +154,19 @@ Railway   │ Cloud Deployment
 
 </div>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        
-**🎯 Features:**
+<table>
+  <tr>
+    <td width="50%">
+      
 - 🧠 **NLP-powered Chatbot** with Groq API for conceptual Q&A
 - 📊 **Study Dashboard** with topic tracking & progress analytics
 - 🔍 **OCR Integration** for document content extraction
 - 📝 **Interactive Quizzes** with personalized learning paths
 
 </td>
-      <td width="50%" valign="top">
-        
-**⚡ Tech Stack:**
+    <td width="50%">
+      
+**Tech Stack:**
 ```
 HTML/CSS  │ Frontend Structure
 JavaScript│ Interactive Features
@@ -214,9 +176,8 @@ Groq API  │ AI Assistant
 ```
 
 </td>
-    </tr>
-  </table>
-</div>
+  </tr>
+</table>
 
 ---
 
@@ -231,12 +192,10 @@ Groq API  │ AI Assistant
 
 </div>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        
-**🚀 Innovations:**
+<table>
+  <tr>
+    <td width="50%">
+      
 - 🔬 **ML Image Classification** for disease detection (WSSV, Blackgill, etc.)
 - 📊 **Dynamic Dashboards** with Chart.js visualizations
 - 🔐 **OAuth 2.0 Authentication** & comprehensive user management
@@ -244,8 +203,8 @@ Groq API  │ AI Assistant
 - 🌐 **RESTful APIs** with Flask backend & MongoDB Atlas
 
 </td>
-      <td width="50%" valign="top">
-        
+    <td width="50%">
+      
 **Building this during my Full-Stack Developer Internship @ Robic Rufarm India**
 
 ```
@@ -257,9 +216,8 @@ Roboflow   │ ML Model API
 ```
 
 </td>
-    </tr>
-  </table>
-</div>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -269,23 +227,20 @@ Roboflow   │ ML Model API
 
 <div align="center">
   
-<!-- Desktop/Tablet Layout -->
-<div>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=varun339658&show_icons=true&theme=tokyonight&count_private=true&border_radius=20&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&bg_color=1a1b27" width="100%" max-width="400px"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun339658&theme=tokyonight&border_radius=20&border=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&background=1a1b27" width="100%" max-width="400px"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=varun339658&show_icons=true&theme=tokyonight&count_private=true&border_radius=20&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&bg_color=1a1b27" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun339658&theme=tokyonight&border_radius=20&border=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&background=1a1b27" height="200"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun339658&layout=compact&theme=tokyonight&langs_count=8&border_radius=20&border_color=00d4ff&title_color=00d4ff&bg_color=1a1b27" width="100%" max-width="500px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun339658&layout=compact&theme=tokyonight&langs_count=8&border_radius=20&border_color=00d4ff&title_color=00d4ff&bg_color=1a1b27" height="200"/>
 
 <br>
 
@@ -303,40 +258,38 @@ Roboflow   │ ML Model API
 
 ### 🏆 Achievements
 
-<div style="overflow-x: auto;">
-  <table width="100%">
-    <tr align="center">
-      <th>🎯 Achievement</th>
-      <th>📋 Details</th>
-      <th>✅ Status</th>
-    </tr>
-    <tr align="center">
-      <td>🥉 <strong>AIthon 2024 - 3rd Place</strong></td>
-      <td>AI Hackathon (150+ teams)</td>
-      <td><img src="https://img.shields.io/badge/Completed-28A745?style=flat&logoColor=white" /></td>
-    </tr>
-    <tr align="center">
-      <td>🎓 <strong>Academic Excellence</strong></td>
-      <td>CGPA: 8.0 @ MVSR Engineering</td>
-      <td><img src="https://img.shields.io/badge/Ongoing-FFC107?style=flat&logoColor=black" /></td>
-    </tr>
-    <tr align="center">
-      <td>🎯 <strong>TS EAMCET 2022</strong></td>
-      <td>Rank 7,000 (Non-Local)</td>
-      <td><img src="https://img.shields.io/badge/Achieved-FF5722?style=flat&logoColor=white" /></td>
-    </tr>
-    <tr align="center">
-      <td>📜 <strong>Google AI/ML Internship</strong></td>
-      <td>Virtual Program (Apr-Jun 2024)</td>
-      <td><img src="https://img.shields.io/badge/Completed-28A745?style=flat&logoColor=white" /></td>
-    </tr>
-    <tr align="center">
-      <td>🏅 <strong>Full-Stack Certification</strong></td>
-      <td>Udemy (Jan 2025)</td>
-      <td><img src="https://img.shields.io/badge/Certified-9C27B0?style=flat&logoColor=white" /></td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr align="center">
+    <th>🎯 Achievement</th>
+    <th>📋 Details</th>
+    <th>✅ Status</th>
+  </tr>
+  <tr align="center">
+    <td>🥉 <strong>AIthon 2024 - 3rd Place</strong></td>
+    <td>AI Hackathon (150+ teams)</td>
+    <td><img src="https://img.shields.io/badge/Completed-28A745?style=flat&logoColor=white" /></td>
+  </tr>
+  <tr align="center">
+    <td>🎓 <strong>Academic Excellence</strong></td>
+    <td>CGPA: 8.0 @ MVSR Engineering</td>
+    <td><img src="https://img.shields.io/badge/Ongoing-FFC107?style=flat&logoColor=black" /></td>
+  </tr>
+  <tr align="center">
+    <td>🎯 <strong>TS EAMCET 2022</strong></td>
+    <td>Rank 7,000 (Non-Local)</td>
+    <td><img src="https://img.shields.io/badge/Achieved-FF5722?style=flat&logoColor=white" /></td>
+  </tr>
+  <tr align="center">
+    <td>📜 <strong>Google AI/ML Internship</strong></td>
+    <td>Virtual Program (Apr-Jun 2024)</td>
+    <td><img src="https://img.shields.io/badge/Completed-28A745?style=flat&logoColor=white" /></td>
+  </tr>
+  <tr align="center">
+    <td>🏅 <strong>Full-Stack Certification</strong></td>
+    <td>Udemy (Jan 2025)</td>
+    <td><img src="https://img.shields.io/badge/Certified-9C27B0?style=flat&logoColor=white" /></td>
+  </tr>
+</table>
 
 </div>
 
@@ -346,28 +299,25 @@ Roboflow   │ ML Model API
   <img src="https://img.shields.io/badge/Current%20Role-Full--Stack%20Developer%20Intern-00D4FF?style=for-the-badge&logoColor=white" />
 </div>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="30%" align="center" valign="top">
-        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80">
-        <br><strong>🔧 Full-Stack Developer Intern</strong>
-        <br><em>Robic Rufarm India Pvt. Ltd.</em>
-        <br><code>May 2025 - Present</code>
-        <br><small>Hyderabad (Remote/Hybrid)</small>
-      </td>
-      <td width="70%" valign="top">
-        
-**🚀 Key Responsibilities:**
-- 🔬 Building AI-powered health monitoring system for aquaculture industry
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80">
+      <br><strong>🔧 Full-Stack Developer Intern</strong>
+      <br><em>Robic Rufarm India Pvt. Ltd.</em>
+      <br><code>May 2025 - Present</code>
+      <br><small>Hyderabad (Remote/Hybrid)</small>
+    </td>
+    <td width="70%">
+      
+- 🚀 Building AI-powered health monitoring system for aquaculture industry
 - 🔗 Integrated Roboflow API for automated disease detection with confidence scoring
 - ⚡ Developed RESTful APIs and responsive frontend using Flask & MongoDB Atlas
 - 📈 Supporting data-driven decision-making for 100+ aquaculture farms
 
 </td>
-    </tr>
-  </table>
-</div>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -407,24 +357,22 @@ flowchart TD
 
 ### 🎯 Current Priorities
 
-<div style="overflow-x: auto;">
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Focus-DSA_Mastery-FF6B6B?style=for-the-badge&logoColor=white" />
-        <br><br>
-        📌 **Mastering Striver A-Z DSA Sheet**<br>
-        🧠 **Building production-ready AI applications**
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Goal-FAANG_Ready-00D4FF?style=for-the-badge&logoColor=white" />
-        <br><br>
-        📂 **Contributing to open-source projects**<br>
-        🚀 **Preparing for technical interviews**
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Focus-DSA_Mastery-FF6B6B?style=for-the-badge&logoColor=white" />
+      <br><br>
+      📌 **Mastering Striver A-Z DSA Sheet**<br>
+      🧠 **Building production-ready AI applications**
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Goal-FAANG_Ready-00D4FF?style=for-the-badge&logoColor=white" />
+      <br><br>
+      📂 **Contributing to open-source projects**<br>
+      🚀 **Preparing for technical interviews**
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -435,42 +383,40 @@ flowchart TD
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40"> Learning Journey
 
 <div align="center">
-  <div style="overflow-x: auto;">
-    <table width="100%">
-      <tr>
-        <td align="center" width="33%">
-          <img src="https://img.shields.io/badge/Completed-28A745?style=for-the-badge&logoColor=white" />
-          <br><br>
-          <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
-          <br>
-          ✅ Full-Stack Web Development<br>
-          ✅ AI/ML Fundamentals & OpenCV<br>
-          ✅ RESTful API Development<br>
-          ✅ Google AI/ML Virtual Internship
-        </td>
-        <td align="center" width="33%">
-          <img src="https://img.shields.io/badge/Currently%20Learning-FFC107?style=for-the-badge&logoColor=black" />
-          <br><br>
-          <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-          <br>
-          🔄 Advanced DSA (Striver Sheet)<br>
-          🔄 ML Model Deployment<br>
-          🔄 System Design Fundamentals<br>
-          🔄 Cloud Computing & DevOps
-        </td>
-        <td align="center" width="33%">
-          <img src="https://img.shields.io/badge/Next%20Goals-FF5722?style=for-the-badge&logoColor=white" />
-          <br><br>
-          <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
-          <br>
-          🎯 Open-source Contributions<br>
-          🎯 Microservices Architecture<br>
-          🎯 Advanced Prompt Engineering<br>
-          🎯 FAANG Interview Preparation
-        </td>
-      </tr>
-    </table>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Completed-28A745?style=for-the-badge&logoColor=white" />
+        <br><br>
+        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
+        <br>
+        ✅ Full-Stack Web Development<br>
+        ✅ AI/ML Fundamentals & OpenCV<br>
+        ✅ RESTful API Development<br>
+        ✅ Google AI/ML Virtual Internship
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Currently%20Learning-FFC107?style=for-the-badge&logoColor=black" />
+        <br><br>
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+        <br>
+        🔄 Advanced DSA (Striver Sheet)<br>
+        🔄 ML Model Deployment<br>
+        🔄 System Design Fundamentals<br>
+        🔄 Cloud Computing & DevOps
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Next%20Goals-FF5722?style=for-the-badge&logoColor=white" />
+        <br><br>
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+        <br>
+        🎯 Open-source Contributions<br>
+        🎯 Microservices Architecture<br>
+        🎯 Advanced Prompt Engineering<br>
+        🎯 FAANG Interview Preparation
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -491,27 +437,25 @@ flowchart TD
 
 <br><br>
 
-<div style="overflow-x: auto;">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/varunreddy-mandadi-996b14259">
-          <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:mandadivarunreddy339658@gmail.com">
-          <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/varun339658">
-          <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/varunreddy-mandadi-996b14259">
+        <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:mandadivarunreddy339658@gmail.com">
+        <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/varun339658">
+        <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
