@@ -131,57 +131,6 @@ print(varun.current_status())
 
 ---
 
-## 🔭 Currently Working On
-
-```mermaid
-graph LR
-    A[Daily DSA Practice] --> B[Striver A-Z Sheet]
-    A --> C[LeetCode Problems]
-    
-    D[AI/ML Projects] --> E[Computer Vision]
-    D --> F[NLP Applications]
-    
-    G[Full-Stack Development] --> H[Flask Applications]
-    G --> I[API Development]
-    
-    B --> J[Dream Job at FAANG]
-    C --> J
-    E --> J
-    F --> J
-    H --> J
-    I --> J
-```
-
-- 📌 **Mastering Striver A-Z DSA Sheet** (Data Structures & Algorithms)
-- 🧠 **Building production-ready AI applications** with Flask & MongoDB
-- 📂 **Contributing to open-source projects** on GitHub
-- 🚀 **Preparing for technical interviews** at top product companies
-- 🔗 **Deploying projects** using modern cloud platforms
-
----
-
-## 🎯 Learning Journey
-
-**✅ Completed:**
-- Full-Stack Web Development (HTML, CSS, JS, Flask, MongoDB)
-- AI/ML Fundamentals & Computer Vision with OpenCV
-- RESTful API Development & Third-party API Integration
-- Google AI/ML Virtual Internship Program
-
-**🔄 Currently Learning:**
-- Advanced Data Structures & Algorithms (Striver Sheet)
-- Machine Learning Model Deployment
-- System Design Fundamentals
-- Cloud Computing & DevOps Basics
-
-**🔜 Next Goals:**
-- Contributing to major open-source projects
-- Building scalable microservices architecture
-- Advanced prompt engineering & LLM integration
-- Preparing for FAANG interviews
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
