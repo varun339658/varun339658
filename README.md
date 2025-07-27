@@ -39,7 +39,6 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 **Web Development:**  
@@ -75,14 +74,14 @@
 - 📝 **Interactive Quizzes** with personalized learning paths
 - 🔗 **Tech Stack:** HTML, CSS, JavaScript, Flask, MongoDB, Groq API
 
-### 🦐 **Aquaculture Health Monitoring System** *(May 2025 - Present)*
+### 🦐 **Aquaculture Health Monitoring System** *(Current Internship Project)*
 **Real-time AI-powered disease detection for fish & shrimp farming**
 - 🔬 **ML Image Classification** for disease detection (WSSV, Blackgill, etc.)
 - 📊 **Dynamic Dashboards** with Chart.js visualizations
 - 🔐 **OAuth 2.0 Authentication** & comprehensive user management
 - 📄 **Multi-format Reports** (PDF, CSV, Excel) for farm analytics
 - 🌐 **RESTful APIs** with Flask backend & MongoDB Atlas
-- 🔗 **Current Role:** Full-Stack Developer Intern @ Robic Rufarm India
+- 🔗 **Building this during my Full-Stack Developer Internship @ Robic Rufarm India**
 
 ---
 
