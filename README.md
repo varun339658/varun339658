@@ -16,34 +16,22 @@
 
 ## 👨‍💻 About Me
 
-```python
-class VarunReddy:
-    def __init__(self):
-        self.name = "Mandadi Varun Reddy"
-        self.role = "Final-Year B.Tech IT Student"
-        self.college = "MVSR Engineering College, Hyderabad"
-        self.cgpa = 8.0
-        self.skills = [
-            "Python", "Full-Stack Development", "AI/ML", "DSA", 
-            "APIs", "Flask", "MongoDB", "Computer Vision"
-        ]
-        self.focus = [
-            "DSA via Striver A-Z Sheet",
-            "ML/Computer Vision Projects",
-            "NLP-based AI Assistants",
-            "Full-Stack Web Development"
-        ]
-        self.dream_companies = ["Google", "Amazon", "Microsoft", "OpenAI"]
+🎓 **Final-Year B.Tech IT Student** @ MVSR Engineering College, Hyderabad  
+📊 **CGPA:** 8.0 | 🏆 **Hackathon Winner** | 💼 **AI Intern** @ Robic Rufarm  
 
-    def current_status(self):
-        return "Building AI-powered solutions & mastering DSA daily! 🚀"
+### 🔥 What I Do:
+- 🚀 Building **AI-powered web applications** with Flask & MongoDB
+- 🧠 Mastering **Data Structures & Algorithms** via Striver A-Z Sheet
+- 🤖 Developing **Computer Vision & NLP solutions** for real-world problems
+- 🌐 Creating **full-stack applications** with modern tech stacks
 
-    def fun_fact(self):
-        return "🏆 Hackathon Winner & Aquaculture AI Intern at Robic Rufarm"
+### 🎯 Current Focus:
+- **DSA Practice:** Daily problem-solving on LeetCode & Striver Sheet
+- **AI/ML Projects:** Computer Vision, NLP chatbots, and ML model deployment  
+- **Full-Stack Development:** Flask, MongoDB, REST APIs, and responsive UIs
+- **Career Goal:** Landing a role at **Google, Amazon, Microsoft, or OpenAI**
 
-varun = VarunReddy()
-print(varun.current_status())
-```
+> 💡 **Fun Fact:** Won 3rd place in AIthon 2024 competing against 150+ teams!
 
 ---
 
@@ -128,6 +116,57 @@ print(varun.current_status())
 - Integrated Roboflow API for automated disease detection with confidence scoring
 - Developed RESTful APIs and responsive frontend using Flask & MongoDB Atlas
 - Supporting data-driven decision-making for 100+ aquaculture farms
+
+---
+
+## 🔭 Currently Working On
+
+```mermaid
+graph LR
+    A[Daily DSA Practice] --> B[Striver A-Z Sheet]
+    A --> C[LeetCode Problems]
+    
+    D[AI/ML Projects] --> E[Computer Vision]
+    D --> F[NLP Applications]
+    
+    G[Full-Stack Development] --> H[Flask Applications]
+    G --> I[API Development]
+    
+    B --> J[Dream Job at FAANG]
+    C --> J
+    E --> J
+    F --> J
+    H --> J
+    I --> J
+```
+
+- 📌 **Mastering Striver A-Z DSA Sheet** (Data Structures & Algorithms)
+- 🧠 **Building production-ready AI applications** with Flask & MongoDB
+- 📂 **Contributing to open-source projects** on GitHub
+- 🚀 **Preparing for technical interviews** at top product companies
+- 🔗 **Deploying projects** using modern cloud platforms
+
+---
+
+## 🎯 Learning Journey
+
+**✅ Completed:**
+- Full-Stack Web Development (HTML, CSS, JS, Flask, MongoDB)
+- AI/ML Fundamentals & Computer Vision with OpenCV
+- RESTful API Development & Third-party API Integration
+- Google AI/ML Virtual Internship Program
+
+**🔄 Currently Learning:**
+- Advanced Data Structures & Algorithms (Striver Sheet)
+- Machine Learning Model Deployment
+- System Design Fundamentals
+- Cloud Computing & DevOps Basics
+
+**🔜 Next Goals:**
+- Contributing to major open-source projects
+- Building scalable microservices architecture
+- Advanced prompt engineering & LLM integration
+- Preparing for FAANG interviews
 
 ---
 
