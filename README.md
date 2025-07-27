@@ -1,610 +1,472 @@
+# Varun Reddy Mandadi
+
 <div align="center">
-
-<!-- Header with gradient background effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Varun%20Reddy%20Mandadi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-</div>
-
-<!-- Animated typing introduction -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%9A%80+Full-Stack+Developer+%26+AI+Enthusiast;%F0%9F%A7%A0+Building+the+Future+with+Code;%F0%9F%92%A1+Problem+Solver+%7C+Innovation+Driver;%F0%9F%8C%9F+Open+Source+Contributor;%F0%9F%8E%AF+Targeting+FAANG+Companies" alt="Typing Animation"/>
-</div>
-
-<!-- Professional badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🎓_Final_Year_Student-MVSR_Engineering_College-1a73e8?style=for-the-badge&labelColor=000&color=1a73e8"/>
-  <img src="https://img.shields.io/badge/📊_CGPA-8.0-success?style=for-the-badge&labelColor=000&color=28a745"/>
-  <img src="https://img.shields.io/badge/🏆_AIthon_2024-3rd_Place-gold?style=for-the-badge&labelColor=000&color=ffd700"/>
-  <img src="https://img.shields.io/badge/💼_Current_Role-Full_Stack_Intern-ff6b6b?style=for-the-badge&labelColor=000&color=ff6b6b"/>
-</div>
-
-<!-- Social connections with hover effects -->
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/varunreddy-mandadi-996b14259" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-  </a>
-  <a href="https://github.com/varun339658" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-  </a>
-  <a href="mailto:mandadivarunreddy339658@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-  </a>
-  <a href="tel:6301842932" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Varun+Reddy+Mandadi;Full-Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A7%A0;Problem+Solver+%F0%9F%92%A1;Building+the+Future+%E2%9C%A8;Open+Source+Explorer+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- Stylish divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- About Me Section with modern cards -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  About Me
-</h2>
-
 <div align="center">
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### 🎯 **Professional Summary**
-```yaml
-Name: Varun Reddy Mandadi
-Role: Full-Stack Developer & AI Enthusiast
-Education: B.Tech IT @ MVSR Engineering College
-Location: Hyderabad, Telangana, India
-Experience: AI Intern @ Robic Rufarm India
-Interests: [AI/ML, Full-Stack Development, DSA]
-```
-
-### 🚀 **What I'm Building**
-- 🤖 **AI-Powered Web Apps** using Flask, MongoDB & Modern APIs
-- 🧠 **Computer Vision Solutions** for real-world industry problems  
-- 📊 **Data-Driven Dashboards** with interactive visualizations
-- 🌐 **Scalable REST APIs** with authentication & cloud deployment
-
-### 🎯 **Current Mission**
-- 📚 **Mastering DSA** through Striver A-Z Sheet & LeetCode
-- 🏗️ **Building Production-Ready** AI applications
-- 🔍 **Preparing for FAANG** technical interviews
-- 🌟 **Contributing to Open Source** projects
-
-</td>
-<td width="40%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/🎊_Achievement_Unlocked-Won_AIthon_2024_among_150+_teams-FF6B6B?style=for-the-badge&labelColor=000"/>
-</td>
-</tr>
-</table>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation">
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-<!-- Tech Stack with modern design -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  Tech Arsenal
-</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/varunreddy-mandadi-996b14259">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/varun339658">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mandadivarunreddy339658@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="tel:6301842932">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> About Me
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      
+### 🎯 Who Am I?
+**Final-Year B.Tech IT Student** @ MVSR Engineering College, Hyderabad  
+📊 **CGPA:** 8.0 | 🏆 **Hackathon Winner** | 💼 **AI Intern** @ Robic Rufarm  
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> What I Do
+- 🚀 Building **AI-powered web applications** with Flask & MongoDB
+- 🧠 Mastering **Data Structures & Algorithms** via Striver A-Z Sheet
+- 🤖 Developing **Computer Vision & NLP solutions** for real-world problems
+- 🌐 Creating **full-stack applications** with modern tech stacks
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> Current Focus
+- **DSA Practice:** Daily problem-solving on LeetCode & Striver Sheet
+- **AI/ML Projects:** Computer Vision, NLP chatbots, and ML model deployment  
+- **Full-Stack Development:** Flask, MongoDB, REST APIs, and responsive UIs
+- **Career Goal:** Landing a role at **Google, Amazon, Microsoft, or OpenAI**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯_Fun_Fact-Won_3rd_place_in_AIthon_2024_competing_against_150+_teams!-FF6B6B?style=for-the-badge&logoColor=white" />
+</div>
+
+</td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" height="80"> Tech Stack & Tools
 
 <div align="center">
 
-### 💻 **Languages & Frameworks**
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,javascript,flask,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,javascript" />
 </p>
 
-### 🗄️ **Databases & Tools**  
+### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,html,css,mongodb" />
 </p>
 
-### 🤖 **AI/ML & Cloud**
+### 🤖 AI/ML & Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,docker,aws,heroku,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=opencv,git,github,postman" />
 </p>
-
-<!-- Skill progress bars -->
-<table width="100%">
-<tr>
-<td width="50%">
-
-**Backend Development**
-![Python](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9500&successColor=006600)
-![Flask](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9500&successColor=006600)
-![REST APIs](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9500&successColor=006600)
-
-**AI/ML**
-![OpenCV](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9500&successColor=006600)
-![NLP](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9500&successColor=006600)
-![Model Deployment](https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9500&successColor=006600)
-
-</td>
-<td width="50%">
-
-**Frontend Development**
-![JavaScript](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9500&successColor=006600)
-![HTML/CSS](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9500&successColor=006600)
-![Responsive Design](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9500&successColor=006600)
-
-**Database & DevOps**
-![MongoDB](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9500&successColor=006600)
-![Git/GitHub](https://geps.dev/progress/90?dangerColor=800000&warningColor=ff9500&successColor=006600)
-![Cloud Deployment](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9500&successColor=006600)
-
-</td>
-</tr>
-</table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<!-- Featured Projects with modern cards -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  Featured Projects
-</h2>
+## <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="70"> Featured Projects
 
-<!-- Project 1: India Travel Explorer -->
 <div align="center">
 
-### 🌍 **India Travel Explorer**
-*AI-Powered Travel Companion*
+### 🌍 **India Travel Explorer** 
+*Jan 2025 - Mar 2025*
 
-<img src="https://img.shields.io/badge/Status-Live_Demo-success?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Type-Full_Stack_Web_App-blue?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-NLP_Chatbot-purple?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Travel%20Platform-00D4FF?style=for-the-badge&logoColor=white" />
+
+**AI-based travel platform with interactive maps & intelligent recommendations**
 
 </div>
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%">
+      
+- 🤖 **NLP Chatbot** using Groq API for personalized travel advice
+- 🗺️ **Interactive Maps** with Leaflet.js + real-time location data
+- 🌦️ **Weather Integration** (OpenWeather API) + **Monument Recognition** (Roboflow)
+- 📍 **Multi-API Integration:** Geoapify, Unsplash, Google Maps 360° views
 
-#### 🚀 **Key Features**
-- 🤖 **Intelligent Chatbot** powered by Groq API
-- 🗺️ **Interactive Maps** with Leaflet.js integration
-- 🌦️ **Real-time Weather** & location services
-- 📸 **Monument Recognition** using Roboflow AI
-- 🎨 **Responsive UI** with modern design
-
-#### 🛠️ **Tech Implementation**
-```python
-# AI Integration
-groq_client = Groq(api_key=GROQ_API_KEY)
-response = groq_client.chat.completions.create(
-    model="mixtral-8x7b-32768",
-    messages=travel_context
-)
+</td>
+    <td width="50%">
+      
+**Tech Stack:**
+```
+Flask     │ Backend Framework
+MongoDB   │ Database
+JavaScript│ Frontend Interactivity  
+REST APIs │ Data Integration
+Groq API  │ AI Chatbot
 ```
 
 </td>
-<td width="50%">
-
-#### 📊 **Architecture Overview**
-```mermaid
-graph TB
-    A[React Frontend] --> B[Flask API]
-    B --> C[MongoDB Atlas]
-    B --> D[Groq AI API]
-    B --> E[Weather API]
-    B --> F[Maps API]
-    
-    style A fill:#61dafb
-    style B fill:#00d4ff
-    style C fill:#47a248
-    style D fill:#ff6b6b
-```
-
-#### 🎯 **Impact & Results**
-- ⚡ **Response Time:** < 2 seconds for AI queries
-- 📱 **Mobile Responsive:** 100% compatibility
-- 🌍 **Coverage:** All major Indian destinations
-- 👥 **User Experience:** Intuitive & engaging
-
-</td>
-</tr>
+  </tr>
 </table>
 
 ---
 
-<!-- Project 2: AI Tutor -->
 <div align="center">
 
 ### 📚 **AI Tutor for MPC Students** 
-*Hackathon Winner - AIthon 2024*
+*AIthon 2024 - 🥉 3rd Place*
 
-<img src="https://img.shields.io/badge/🏆-3rd_Place_Winner-gold?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Competition-150+_Teams-red?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Domain-EdTech_AI-green?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hackathon%20Winner-FFD700?style=for-the-badge&logoColor=black" />
+
+**Smart learning platform for Math, Physics & Chemistry - Competed against 150+ teams**
 
 </div>
 
 <table>
-<tr>
-<td width="50%">
-
-#### 🧠 **AI Features**
-- 💬 **Contextual Q&A** for Math, Physics, Chemistry
-- 📊 **Learning Analytics** with progress tracking
-- 🔍 **OCR Integration** for document processing
-- 📝 **Adaptive Quizzes** based on performance
-- 📈 **Visual Progress** dashboards
-
-#### 💡 **Innovation Highlights**
-- **Multi-subject expertise** in one platform
-- **Personalized learning paths** using AI
-- **Real-time doubt resolution** system
-- **Gamified learning experience**
+  <tr>
+    <td width="50%">
+      
+- 🧠 **NLP-powered Chatbot** with Groq API for conceptual Q&A
+- 📊 **Study Dashboard** with topic tracking & progress analytics
+- 🔍 **OCR Integration** for document content extraction
+- 📝 **Interactive Quizzes** with personalized learning paths
 
 </td>
-<td width="50%">
-
-#### 🏗️ **System Architecture**
-```yaml
-Frontend: HTML5, CSS3, JavaScript ES6
-Backend: Flask with RESTful API design
-Database: MongoDB with optimized schemas
-AI Engine: Groq API for NLP processing
-Authentication: JWT-based secure login
-Deployment: Cloud-ready containerized setup
+    <td width="50%">
+      
+**Tech Stack:**
+```
+HTML/CSS  │ Frontend Structure
+JavaScript│ Interactive Features
+Flask     │ Backend API
+MongoDB   │ Data Storage
+Groq API  │ AI Assistant
 ```
 
-#### 📈 **Hackathon Metrics**
-- 🎯 **Problem Solved:** Student learning efficiency
-- ⏱️ **Development Time:** 24 hours
-- 👨‍💻 **Team Size:** Solo project
-- 🏅 **Final Rank:** 3rd out of 150+ teams
-
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
 
-<!-- Project 3: Aquaculture System -->
 <div align="center">
 
-### 🦐 **Aquaculture Health Monitoring System**
-*Production-Ready Industry Solution*
+### 🦐 **Aquaculture Health Monitoring System** 
+*Current Internship Project*
 
-<img src="https://img.shields.io/badge/Status-Production-brightgreen?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Industry-Aquaculture_AI-blue?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Role-Lead_Developer-orange?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Production%20Ready-28A745?style=for-the-badge&logoColor=white" />
+
+**Real-time AI-powered disease detection for fish & shrimp farming**
 
 </div>
 
 <table>
-<tr>
-<td width="50%">
-
-#### 🔬 **ML Capabilities**
-- 🎯 **Disease Detection:** WSSV, Blackgill, etc.
-- 📊 **Confidence Scoring:** ML model accuracy
-- 📈 **Trend Analysis:** Historical health data
-- 🚨 **Alert System:** Real-time notifications
-- 📋 **Report Generation:** PDF, CSV, Excel
-
-#### 🔐 **Enterprise Features**
-- **OAuth 2.0 Authentication**
-- **Role-based Access Control**
-- **API Rate Limiting**
-- **Data Encryption**
-- **Audit Logging**
+  <tr>
+    <td width="50%">
+      
+- 🔬 **ML Image Classification** for disease detection (WSSV, Blackgill, etc.)
+- 📊 **Dynamic Dashboards** with Chart.js visualizations
+- 🔐 **OAuth 2.0 Authentication** & comprehensive user management
+- 📄 **Multi-format Reports** (PDF, CSV, Excel) for farm analytics
+- 🌐 **RESTful APIs** with Flask backend & MongoDB Atlas
 
 </td>
-<td width="50%">
+    <td width="50%">
+      
+**Building this during my Full-Stack Developer Internship @ Robic Rufarm India**
 
-#### 🏭 **Production Impact**
-```yaml
-Farms Supported: 100+
-Detection Accuracy: 94.7%
-Response Time: <3 seconds
-Uptime: 99.9%
-Data Processed: 50GB+ monthly
-Cost Reduction: 35% for farmers
+```
+Flask      │ Web Framework
+MongoDB    │ Cloud Database
+Chart.js   │ Data Visualization
+OAuth 2.0  │ Authentication
+Roboflow   │ ML Model API
 ```
 
-#### 🚀 **Deployment Stack**
-- **Backend:** Flask + Gunicorn + Nginx
-- **Database:** MongoDB Atlas (Cloud)
-- **ML Pipeline:** Roboflow + Custom Models
-- **Monitoring:** Grafana + Prometheus
-- **Infrastructure:** AWS EC2 + S3
-
 </td>
-</tr>
+  </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<!-- GitHub Analytics with modern styling -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  GitHub Analytics
-</h2>
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70"> GitHub Analytics
 
 <div align="center">
-
+  
 <table>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=varun339658&show_icons=true&count_private=true&theme=react&border_color=00d4ff&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff" height="200"/>
-</td>
-<td width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=varun339658&theme=react&border=00d4ff&background=0D1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" height="200"/>
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=varun339658&show_icons=true&theme=tokyonight&count_private=true&border_radius=20&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&bg_color=1a1b27" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun339658&theme=tokyonight&border_radius=20&border=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&background=1a1b27" height="200"/>
+    </td>
+  </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varun339658&layout=compact&theme=react&border_color=00d4ff&bg_color=0D1117&title_color=00d4ff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun339658&layout=compact&theme=tokyonight&langs_count=8&border_radius=20&border_color=00d4ff&title_color=00d4ff&bg_color=1a1b27" height="200"/>
 
-<br><br>
+<br>
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varun339658&custom_title=Contribution%20Graph&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area_color=00d4ff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varun339658&theme=tokyo-night&bg_color=1a1b27&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff" width="100%">
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<!-- Professional Experience Section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  Professional Journey
-</h2>
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-ca01dcaf38ee.png" width="70"> Achievements & Experience
 
-<!-- Timeline of achievements -->
 <div align="center">
 
-### 🏆 **Achievements Timeline**
+### 🏆 Achievements
 
 <table>
-<tr>
-<th width="15%">🗓️ Year</th>
-<th width="25%">🎯 Achievement</th>
-<th width="35%">📝 Description</th>
-<th width="25%">🏅 Recognition</th>
-</tr>
-<tr>
-<td align="center"><strong>2025</strong></td>
-<td>🔧 <strong>Full-Stack Developer Intern</strong></td>
-<td>Leading AI development at Robic Rufarm India</td>
-<td><img src="https://img.shields.io/badge/Current-Active-success?style=flat"/></td>
-</tr>
-<tr>
-<td align="center"><strong>2024</strong></td>
-<td>🥉 <strong>AIthon 2024 Winner</strong></td>
-<td>3rd place among 150+ teams in AI hackathon</td>
-<td><img src="https://img.shields.io/badge/Rank-3rd_Place-gold?style=flat"/></td>
-</tr>
-<tr>
-<td align="center"><strong>2024</strong></td>
-<td>📜 <strong>Google AI/ML Internship</strong></td>
-<td>Virtual program focusing on practical AI applications</td>
-<td><img src="https://img.shields.io/badge/Status-Completed-blue?style=flat"/></td>
-</tr>
-<tr>
-<td align="center"><strong>2022</strong></td>
-<td>🎓 <strong>TS EAMCET Success</strong></td>
-<td>Secured rank 7,000 in competitive entrance exam</td>
-<td><img src="https://img.shields.io/badge/Rank-7000-orange?style=flat"/></td>
-</tr>
+  <tr align="center">
+    <th>🎯 Achievement</th>
+    <th>📋 Details</th>
+    <th>✅ Status</th>
+  </tr>
+  <tr align="center">
+    <td>🥉 <strong>AIthon 2024 - 3rd Place</strong></td>
+    <td>AI Hackathon (150+ teams)</td>
+    <td><img src="https://img.shields.io/badge/Completed-28A745?style=flat&logoColor=white" /></td>
+  </tr>
+  <tr align="center">
+    <td>🎓 <strong>Academic Excellence</strong></td>
+    <td>CGPA: 8.0 @ MVSR Engineering</td>
+    <td><img src="https://img.shields.io/badge/Ongoing-FFC107?style=flat&logoColor=black" /></td>
+  </tr>
+  <tr align="center">
+    <td>🎯 <strong>TS EAMCET 2022</strong></td>
+    <td>Rank 7,000 (Non-Local)</td>
+    <td><img src="https://img.shields.io/badge/Achieved-FF5722?style=flat&logoColor=white" /></td>
+  </tr>
+  <tr align="center">
+    <td>📜 <strong>Google AI/ML Internship</strong></td>
+    <td>Virtual Program (Apr-Jun 2024)</td>
+    <td><img src="https://img.shields.io/badge/Completed-28A745?style=flat&logoColor=white" /></td>
+  </tr>
+  <tr align="center">
+    <td>🏅 <strong>Full-Stack Certification</strong></td>
+    <td>Udemy (Jan 2025)</td>
+    <td><img src="https://img.shields.io/badge/Certified-9C27B0?style=flat&logoColor=white" /></td>
+  </tr>
 </table>
 
 </div>
 
-### 💼 **Current Role Deep Dive**
+### 💼 Professional Experience
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Current%20Role-Full--Stack%20Developer%20Intern-00D4FF?style=for-the-badge&logoColor=white" />
+</div>
+
 <table>
-<tr>
-<td width="30%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100">
-  <br><br>
-  <strong>🏢 Robic Rufarm India</strong>
-  <br><em>Full-Stack Developer Intern</em>
-  <br><code>May 2025 - Present</code>
-  <br><small>📍 Hyderabad (Hybrid)</small>
-</td>
-<td width="70%">
-
-#### 🚀 **Key Responsibilities**
-- **AI Integration:** Implementing Roboflow APIs for automated disease detection in aquaculture
-- **Full-Stack Development:** Building responsive web applications using Flask and MongoDB Atlas
-- **API Development:** Creating RESTful APIs with authentication and data validation
-- **Performance Optimization:** Achieving <3 second response times for ML predictions
-- **Team Collaboration:** Working with cross-functional teams on production deployments
-
-#### 📊 **Impact Metrics**
-- 🎯 **Farms Served:** 100+ aquaculture operations
-- ⚡ **System Uptime:** 99.9% availability
-- 📈 **Cost Reduction:** 35% operational savings for clients
-- 🔍 **Accuracy Rate:** 94.7% in disease detection
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80">
+      <br><strong>🔧 Full-Stack Developer Intern</strong>
+      <br><em>Robic Rufarm India Pvt. Ltd.</em>
+      <br><code>May 2025 - Present</code>
+      <br><small>Hyderabad (Remote/Hybrid)</small>
+    </td>
+    <td width="70%">
+      
+- 🚀 Building AI-powered health monitoring system for aquaculture industry
+- 🔗 Integrated Roboflow API for automated disease detection with confidence scoring
+- ⚡ Developed RESTful APIs and responsive frontend using Flask & MongoDB Atlas
+- 📈 Supporting data-driven decision-making for 100+ aquaculture farms
 
 </td>
-</tr>
+  </tr>
 </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Learning & Growth Section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  Learning & Growth Roadmap
-</h2>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<!-- Current focus with progress tracking -->
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-  <img src="https://img.shields.io/badge/✅-Mastered-28a745?style=for-the-badge&logoColor=white"/>
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
-  <br><br>
-  <strong>🎯 Foundation Skills</strong>
-  <br><br>
-  ✅ Full-Stack Web Development<br>
-  ✅ Flask & MongoDB Integration<br>
-  ✅ RESTful API Design<br>
-  ✅ AI/ML Fundamentals<br>
-  ✅ Computer Vision with OpenCV<br>
-  ✅ Version Control with Git<br>
-</td>
-<td width="33%" align="center">
-  <img src="https://img.shields.io/badge/🔄-In_Progress-ffa500?style=for-the-badge&logoColor=white"/>
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-  <br><br>
-  <strong>📚 Current Learning</strong>
-  <br><br>
-  🔄 Advanced DSA (Striver A-Z Sheet)<br>
-  🔄 System Design Fundamentals<br>
-  🔄 ML Model Deployment & MLOps<br>
-  🔄 Cloud Computing (AWS/Azure)<br>
-  🔄 Docker & Kubernetes<br>
-  🔄 Advanced Prompt Engineering<br>
-</td>
-<td width="33%" align="center">
-  <img src="https://img.shields.io/badge/🎯-Next_Goals-ff6b6b?style=for-the-badge&logoColor=white"/>
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
-  <br><br>
-  <strong>🚀 Future Targets</strong>
-  <br><br>
-  🎯 Microservices Architecture<br>
-  🎯 Advanced AI/ML Algorithms<br>
-  🎯 Open Source Contributions<br>
-  🎯 Technical Writing & Blogging<br>
-  🎯 FAANG Interview Preparation<br>
-  🎯 Leadership & Team Management<br>
-</td>
-</tr>
-</table>
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40"> Currently Working On
 
-### 📈 **Current Focus Areas**
+<div align="center">
 
 ```mermaid
-mindmap
-  root((Learning Journey))
-    DSA Mastery
-      Striver A-Z Sheet
-      LeetCode Daily
-      Competitive Programming
-      Algorithm Optimization
-    Full-Stack Excellence
-      Advanced Flask Patterns
-      Database Optimization
-      API Security
-      Performance Tuning
-    AI/ML Expertise
-      Deep Learning Models
-      Computer Vision Projects
-      NLP Applications
-      Model Deployment
-    Career Preparation
-      System Design
-      Technical Interviews
-      Open Source Contributions
-      Professional Networking
+flowchart TD
+    A[🧮 Daily DSA Practice] --> B[📚 Striver A-Z Sheet]
+    A --> C[💻 LeetCode Problems]
+    
+    D[🤖 AI/ML Projects] --> E[👁️ Computer Vision]
+    D --> F[💬 NLP Applications]
+    
+    G[🌐 Full-Stack Development] --> H[⚡ Flask Applications]
+    G --> I[🔗 API Development]
+    
+    B --> J[🎯 Dream Job at FAANG]
+    C --> J
+    E --> J
+    F --> J
+    H --> J
+    I --> J
+    
+    style A fill:#00d4ff,stroke:#333,stroke-width:3px,color:#fff
+    style D fill:#00d4ff,stroke:#333,stroke-width:3px,color:#fff
+    style G fill:#00d4ff,stroke:#333,stroke-width:3px,color:#fff
+    style J fill:#ff6b6b,stroke:#333,stroke-width:4px,color:#fff
 ```
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Connect Section with modern design -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  Let's Connect & Collaborate
-</h2>
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
-<h3><em>"Innovation distinguishes between a leader and a follower."</em></h3>
-<h4>— Steve Jobs</h4>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
+### 🎯 Current Priorities
 
-<br>
-
-<img src="https://img.shields.io/badge/🤝-Open_for_Opportunities-00D4FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/💡-Tech_Collaborations-FF6B6B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🚀-Mentorship_Exchange-28A745?style=for-the-badge&logoColor=white"/>
-
-<br><br>
-
-<!-- Enhanced contact cards -->
 <table>
-<tr>
-<td align="center" width="25%">
-  <a href="https://www.linkedin.com/in/varunreddy-mandadi-996b14259" target="_blank">
-    <img src="https://img.shields.io/badge/Professional-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <br><small>Connect for opportunities</small>
-  </a>
-</td>
-<td align="center" width="25%">
-  <a href="mailto:mandadivarunreddy339658@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Direct-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-    <br><small>Discuss projects & ideas</small>
-  </a>
-</td>
-<td align="center" width="25%">
-  <a href="https://github.com/varun339658" target="_blank">
-    <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <br><small>Explore my repositories</small>
-  </a>
-</td>
-<td align="center" width="25%">
-  <a href="tel:6301842932" target="_blank">
-    <img src="https://img.shields.io/badge/Quick-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-    <br><small>Instant communication</small>
-  </a>
-</td>
-</tr>
-</table>
-
-### 🎯 **What I'm Looking For**
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-  <img src="https://img.shields.io/badge/🔍-Seeking_Opportunities-gradient?style=for-the-badge"/>
-  <br><br>
-  💼 **Full-Stack Developer Roles**<br>
-  🤖 **AI/ML Engineering Positions**<br>
-  🚀 **Startup Collaborations**<br>
-  📚 **Mentorship Programs**
-</td>
-<td width="50%" align="center">
-  <img src="https://img.shields.io/badge/🤝-Open_to_Collaborate-gradient?style=for-the-badge"/>
-  <br><br>
-  🌟 **Open Source Projects**<br>
-  💡 **Innovative Tech Solutions**<br>
-  📖 **Knowledge Sharing**<br>
-  🎯 **Hackathon Partnerships**
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Focus-DSA_Mastery-FF6B6B?style=for-the-badge&logoColor=white" />
+      <br><br>
+      📌 **Mastering Striver A-Z DSA Sheet**<br>
+      🧠 **Building production-ready AI applications**
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Goal-FAANG_Ready-00D4FF?style=for-the-badge&logoColor=white" />
+      <br><br>
+      📂 **Contributing to open-source projects**<br>
+      🚀 **Preparing for technical interviews**
+    </td>
+  </tr>
 </table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Footer with stats and animation -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=varun339658&label=Profile%20Views&color=00d4ff&style=for-the-badge&labelColor=1a1b27"/>
-<img
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40"> Learning Journey
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Completed-28A745?style=for-the-badge&logoColor=white" />
+        <br><br>
+        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
+        <br>
+        ✅ Full-Stack Web Development<br>
+        ✅ AI/ML Fundamentals & OpenCV<br>
+        ✅ RESTful API Development<br>
+        ✅ Google AI/ML Virtual Internship
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Currently%20Learning-FFC107?style=for-the-badge&logoColor=black" />
+        <br><br>
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+        <br>
+        🔄 Advanced DSA (Striver Sheet)<br>
+        🔄 ML Model Deployment<br>
+        🔄 System Design Fundamentals<br>
+        🔄 Cloud Computing & DevOps
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Next%20Goals-FF5722?style=for-the-badge&logoColor=white" />
+        <br><br>
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+        <br>
+        🎯 Open-source Contributions<br>
+        🎯 Microservices Architecture<br>
+        🎯 Advanced Prompt Engineering<br>
+        🎯 FAANG Interview Preparation
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70"> Let's Connect!
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
+<h3><i>"Consistency beats talent. Code daily, learn continuously, build relentlessly."</i></h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20for-Collaborations%20%7C%20Internships%20%7C%20Tech%20Discussions-00D4FF?style=for-the-badge&logoColor=white" />
+
+<br><br>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/varunreddy-mandadi-996b14259">
+        <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:mandadivarunreddy339658@gmail.com">
+        <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/varun339658">
+        <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=varun339658&label=Profile%20Views&color=00d4ff&style=for-the-badge&labelColor=1a1b27" alt="Profile Views" />
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="35">
+<h2><b>⭐ Thanks for visiting! Happy Coding! 🚀</b></h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="35">
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+</div>
