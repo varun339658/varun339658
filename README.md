@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Varun Reddy Mandadi</h1>
-<h3 align="center">Full-Stack Developer • AI/ML Enthusiast • Striver DSA Learner • Open Source Explorer</h3>
+<h3 align="center">Full-Stack Developer • AI/ML Enthusiast • Open Source Explorer</h3>
 
 ---
 
