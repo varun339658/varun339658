@@ -104,6 +104,15 @@
 
 **AI-based travel platform with interactive maps & intelligent recommendations**
 
+<div align="center">
+  <a href="https://travelnewwebsite-production.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://github.com/varun339658" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
 </div>
 
 <table>
@@ -125,6 +134,7 @@ MongoDB   │ Database
 JavaScript│ Frontend Interactivity  
 REST APIs │ Data Integration
 Groq API  │ AI Chatbot
+Railway   │ Cloud Deployment
 ```
 
 </td>
