@@ -39,7 +39,7 @@
       
 ### 🎯 Who Am I?
 **Final-Year B.Tech IT Student** @ MVSR Engineering College, Hyderabad  
-📊 **CGPA:** 8.0 | 🏆 **Hackathon Winner** | 💼 **AI Intern** @ Robic Rufarm  
+📊 **CGPA:** 8.0 | 🏆 **Hackathon Winner** | 💼 **Full-Stack Developer Intern ** @ Robic Rufarm  
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> What I Do
 - 🚀 Building **AI-powered web applications** with Flask & MongoDB
