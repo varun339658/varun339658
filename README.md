@@ -1,8 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Varun+Reddy+Mandadi;Full-Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A7%A0;Building+the+Future+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Varun+Reddy+Mandadi;Full-Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A7%A0;Problem+Solver+%F0%9F%92%A1;Building+the+Future+%E2%9C%A8;Open+Source+Explorer+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
-<br><br>
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Coding Animation">
+</div>
+
+<br>
 
 <div align="center">
   
@@ -15,7 +21,7 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
@@ -28,7 +34,7 @@
 
 <br>
 
-### 🔥 What I Do:
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> What I Do:
 - 🚀 Building **AI-powered web applications** with Flask & MongoDB
 - 🧠 Mastering **Data Structures & Algorithms** via Striver A-Z Sheet
 - 🤖 Developing **Computer Vision & NLP solutions** for real-world problems
@@ -36,7 +42,7 @@
 
 <br>
 
-### 🎯 Current Focus:
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> Current Focus:
 - **DSA Practice:** Daily problem-solving on LeetCode & Striver Sheet
 - **AI/ML Projects:** Computer Vision, NLP chatbots, and ML model deployment  
 - **Full-Stack Development:** Flask, MongoDB, REST APIs, and responsive UIs
@@ -52,7 +58,7 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
@@ -62,14 +68,14 @@
 
 <div align="center">
 
-### Programming Languages
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 <br>
 
-### Web Development
+### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> Web Development
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -77,7 +83,7 @@
 
 <br>
 
-### AI/ML & Tools
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> AI/ML & Tools
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -87,7 +93,7 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
@@ -95,8 +101,14 @@
 
 <br>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
+</div>
+
+<br>
+
 ### 🌍 **India Travel Explorer** *(Jan 2025 - Mar 2025)*
-**AI-based travel platform with interactive maps & intelligent recommendations**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20"> **AI-based travel platform with interactive maps & intelligent recommendations**
 
 - 🤖 **NLP Chatbot** using Groq API for personalized travel advice
 - 🗺️ **Interactive Maps** with Leaflet.js + real-time location data
@@ -106,8 +118,14 @@
 
 <br>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="250">
+</div>
+
+<br>
+
 ### 📚 **AI Tutor for MPC Students** *(AIthon 2024 - 🥉 3rd Place)*
-**Smart learning platform for Math, Physics & Chemistry - Competed against 150+ teams**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20"> **Smart learning platform for Math, Physics & Chemistry - Competed against 150+ teams**
 
 - 🧠 **NLP-powered Chatbot** with Groq API for conceptual Q&A
 - 📊 **Study Dashboard** with topic tracking & progress analytics
@@ -117,8 +135,14 @@
 
 <br>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-f732bd8a-683b-4648-8c9e-1b3cbc1fa2c2.gif" width="250">
+</div>
+
+<br>
+
 ### 🦐 **Aquaculture Health Monitoring System** *(Current Internship Project)*
-**Real-time AI-powered disease detection for fish & shrimp farming**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20"> **Real-time AI-powered disease detection for fish & shrimp farming**
 
 - 🔬 **ML Image Classification** for disease detection (WSSV, Blackgill, etc.)
 - 📊 **Dynamic Dashboards** with Chart.js visualizations
@@ -129,7 +153,7 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
@@ -156,29 +180,35 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60"> Achievements & Experience
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-ca01dcaf38ee.png" width="60"> Achievements & Experience
 
 <br>
 
 <div align="center">
 
-| 🎯 **Achievements** | 📅 **Date** |
-|---------------------|-------------|
-| 🥉 **3rd Place** - AIthon 2024 (AI Hackathon) | *150+ teams* |
-| 🎓 **CGPA: 8.0** - B.Tech IT @ MVSR | *Nov 2022 - Present* |
-| 🎯 **Rank 7,000** - TS EAMCET 2022 | *Non-Local Category* |
-| 📜 **Google AI/ML Virtual Internship** | *Apr - Jun 2024* |
-| 🏅 **Full-Stack Web Development Certification** | *Udemy - Jan 2025* |
+| 🎯 **Achievements** | 📅 **Date** | <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"> |
+|---------------------|-------------|-------|
+| 🥉 **3rd Place** - AIthon 2024 (AI Hackathon) | *150+ teams* | ⭐ |
+| 🎓 **CGPA: 8.0** - B.Tech IT @ MVSR | *Nov 2022 - Present* | 📚 |
+| 🎯 **Rank 7,000** - TS EAMCET 2022 | *Non-Local Category* | 🏆 |
+| 📜 **Google AI/ML Virtual Internship** | *Apr - Jun 2024* | 🧠 |
+| 🏅 **Full-Stack Web Development Certification** | *Udemy - Jan 2025* | 💻 |
 
 </div>
 
 <br>
 
-### 💼 Professional Experience
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Professional Experience
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223703-5827b1b4-711c-4ac1-b5d9-5e4e9e4888a5.gif" width="300">
+</div>
+
+<br>
 
 **🔧 Full-Stack Developer Intern** - *Robic Rufarm India Pvt. Ltd.*  
 *May 2025 - Present | Hyderabad (Remote/Hybrid)*
@@ -190,11 +220,43 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Currently Working On
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="250">
+</div>
+
+<br>
+
+```mermaid
+graph TD
+    A[<img src='https://cdn-icons-png.flaticon.com/512/1055/1055646.png' width='20'> Daily DSA Practice] --> B[Striver A-Z Sheet]
+    A --> C[LeetCode Problems]
+    
+    D[<img src='https://cdn-icons-png.flaticon.com/512/8618/8618292.png' width='20'> AI/ML Projects] --> E[Computer Vision]
+    D --> F[NLP Applications]
+    
+    G[<img src='https://cdn-icons-png.flaticon.com/512/1336/1336494.png' width='20'> Full-Stack Development] --> H[Flask Applications]
+    G --> I[API Development]
+    
+    B --> J[<img src='https://cdn-icons-png.flaticon.com/512/2927/2927380.png' width='20'> Dream Job at FAANG]
+    C --> J
+    E --> J
+    F --> J
+    H --> J
+    I --> J
+    
+    style A fill:#00d4ff,stroke:#333,stroke-width:2px
+    style D fill:#00d4ff,stroke:#333,stroke-width:2px
+    style G fill:#00d4ff,stroke:#333,stroke-width:2px
+    style J fill:#ff6b6b,stroke:#333,stroke-width:3px
+```
 
 <br>
 
@@ -206,7 +268,7 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
@@ -214,7 +276,13 @@
 
 <br>
 
-### ✅ **Completed:**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223608-a35d9927-4b08-4d8e-af2d-dbefe5ff58fe.gif" width="300">
+</div>
+
+<br>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Completed:**
 - Full-Stack Web Development (HTML, CSS, JS, Flask, MongoDB)
 - AI/ML Fundamentals & Computer Vision with OpenCV
 - RESTful API Development & Third-party API Integration
@@ -222,7 +290,7 @@
 
 <br>
 
-### 🔄 **Currently Learning:**
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> **Currently Learning:**
 - Advanced Data Structures & Algorithms (Striver Sheet)
 - Machine Learning Model Deployment
 - System Design Fundamentals
@@ -230,7 +298,7 @@
 
 <br>
 
-### 🔜 **Next Goals:**
+### <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"> **Next Goals:**
 - Contributing to major open-source projects
 - Building scalable microservices architecture
 - Advanced prompt engineering & LLM integration
@@ -238,7 +306,7 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
@@ -247,15 +315,19 @@
 <br>
 
 <div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="250">
 
-> *"Consistency beats talent. Code daily, learn continuously, build relentlessly."*  
-> **- Varun Reddy Mandadi**
+  <br><br>
 
-<br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25">
+  <i>"Consistency beats talent. Code daily, learn continuously, build relentlessly."</i>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25">
+  
+  <br><br>
+  <b>💬 Always open to collaborations, internships, and exciting tech discussions!</b>
 
-**💬 Always open to collaborations, internships, and exciting tech discussions!**
-
-<br>
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunreddy-mandadi-996b14259)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandadivarunreddy339658@gmail.com)
@@ -265,7 +337,7 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
@@ -274,10 +346,11 @@
   
   <br><br>
   
-  **⭐ Thanks for visiting! Happy Coding! 🚀**
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
+  <b>⭐ Thanks for visiting! Happy Coding! 🚀</b>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
   
-  <br>
-  
+  <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
   
 </div>
