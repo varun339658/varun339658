@@ -74,12 +74,12 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,html,css,mongodb" />
+  <img src="https://skillicons.dev/icons?i=flask,html,css,javascript,mongodb" />
 </p>
 
 ### 🤖 AI/ML & Development Tools
