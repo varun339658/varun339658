@@ -1,4 +1,4 @@
-# Varun Reddy Mandadi
+# Varun Reddy Mandad
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Varun+Reddy+Mandadi;Full-Stack+Developer+%F0%9F%9A%80;AI%2FML+Enthusiast+%F0%9F%A7%A0;Problem+Solver+%F0%9F%92%A1;Building+the+Future+%E2%9C%A8;Open+Source+Explorer+%F0%9F%8C%9F" alt="Typing SVG" />
