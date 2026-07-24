@@ -26,7 +26,7 @@
 
 # 🚀 About Me
 
-🎓 **B.Tech in Information Technology (2022–2026)** — MVSR Engineering College (CGPA: **8.0**)
+🎓 **B.Tech in Information Technology (2022–2026)** — MVSR Engineering College (CGPA: **8.07**)
 
 💼 **Incoming Analyst @ Deloitte**
 
