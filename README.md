@@ -1,7 +1,7 @@
 # Varun Reddy Mandadi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Varun+Reddy;Full-Stack+Developer;AI%2FML+Enthusiast;Building+Real-World+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Varun+Reddy;Full-Stack+Developer;AI%2FML+Engineer;Building+Real-World+AI+Systems" />
 </div>
 
 <br>
@@ -22,16 +22,17 @@
 
 ## 🚀 About Me
 
-🎓 Final-Year B.Tech IT @ MVSR Engineering College (CGPA: 8.0)  
-🥉 3rd Place – AIthon 2024 (150+ teams)  
-💼 Full-Stack Developer Intern @ Robic Rufarm India  
+🎓 **B.Tech in Information Technology (2022–2026)** — MVSR Engineering College (CGPA: **8.0**)  
+🥉 **3rd Place – AIthon 2024** (150+ teams)  
+💼 **Full-Stack Developer Intern** @ Robic Rufarm India  
 
 I build **AI-powered full-stack applications** solving real-world problems.
 
 - 🧠 Daily DSA (Striver A-Z + LeetCode)
 - 🤖 Computer Vision & NLP Projects
 - 🌐 Flask + MongoDB Production Systems
-- 📊 REST APIs & Cloud Deployments
+- ☁️ REST APIs & Cloud Deployments
+- 🚀 Currently seeking Software Engineer / AI Engineer opportunities
 
 ---
 
@@ -63,10 +64,11 @@ AI travel platform with chatbot + maps + weather integration
 ---
 
 ### 🦐 Aquaculture Health Monitoring System
-AI-based shrimp & fish disease detection system  
-- ML Image Classification  
-- Real-time dashboards  
-- Roboflow API Integration  
+AI-based shrimp & fish disease detection system
+
+- ML Image Classification
+- Real-time dashboards
+- Roboflow API Integration
 
 Built during Internship @ Robic Rufarm India
 
