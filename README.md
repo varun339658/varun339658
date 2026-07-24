@@ -22,17 +22,17 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech in Information Technology (2022–2026)** — MVSR Engineering College (CGPA: **8.0**)  
-🥉 **3rd Place – AIthon 2024** (150+ teams)  
-💼 **Full-Stack Developer Intern** @ Robic Rufarm India  
+🎓 B.Tech in Information Technology (2022–2026) — MVSR Engineering College (CGPA: 8.0)
+💼 Incoming Analyst @ Deloitte
+🥉 3rd Place – AIthon 2024 (150+ teams)
+💼 Former Full-Stack Developer Intern @ Robic Rufarm India
 
-I build **AI-powered full-stack applications** solving real-world problems.
+I build AI-powered full-stack applications solving real-world problems.
 
 - 🧠 Daily DSA (Striver A-Z + LeetCode)
 - 🤖 Computer Vision & NLP Projects
 - 🌐 Flask + MongoDB Production Systems
 - ☁️ REST APIs & Cloud Deployments
-- 🚀 Currently seeking Software Engineer / AI Engineer opportunities
 
 ---
 
