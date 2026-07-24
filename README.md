@@ -72,7 +72,7 @@ AI-powered travel platform featuring an intelligent chatbot, weather integration
 
 **Tech Stack:** Flask • MongoDB • Groq API • Railway
 
-🔗 https://travelnewwebsite-production.up.railway.app/
+🔗 https://india-travel-ai-varun-fqgwgsa9bfgydtbd.southeastasia-01.azurewebsites.net/
 
 ---
 
